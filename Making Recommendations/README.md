@@ -1,5 +1,4 @@
 # Making Recommendations
-A record of the skill sessions I partook of at Andela.
 
 ### Introduction (10 mins)
 What do we understand by Making Recommendations?
@@ -48,3 +47,11 @@ Now let's put it in form of a formal recommendation:
 * Seeks & Requests Feedbacks
 * Writing Professionally
 * Spreadsheets, Doc
+
+-----
+### Feedback
+* People should be seated early.
+* Contributions should not be "absolute": leave space for alternate views.
+* Contributions should be better guided and controlled so discussions don't get out of hand and away from the topic.
+* Points presented in the simulation manual are not to be used as instructions but as a scaffold to guide the skill session.
+* Fellows should be made to understand that the skills discussed during the skill sessions are to be practised in real life. 
