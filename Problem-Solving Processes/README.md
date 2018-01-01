@@ -20,9 +20,14 @@
     * Implement and follow up on the solution
 
 ### Learning Outcomes (10 mins)
+
 *Share the LO for the day, and ask fellows to read up on them, explain them, and describe how they apply to today’s topic.*
 
 * Problem-solving & critical thinking
 * Data structures
 * Algorithms
 * Discrete Maths
+
+### Roleplay (25 mins)
+
+We are going to divide ourselves into 3 groups, and each group will pick one of the problems we identified earlier, and go through the problem-solving processes to reach a possible solution, while applying 1 or more of today’s learning outcomes. Afterwards each group will present their solution for 3 minutes, and take feedback for 2 minutes.
