@@ -18,3 +18,11 @@
     * Generate alternative solutions
     * Evaluate and select a solution (what are some of the things you consider when picking a solution? Business constraints, available skills,…)
     * Implement and follow up on the solution
+
+### Learning Outcomes (10 mins)
+*Share the LO for the day, and ask fellows to read up on them, explain them, and describe how they apply to today’s topic.*
+
+* Problem-solving & critical thinking
+* Data structures
+* Algorithms
+* Discrete Maths
