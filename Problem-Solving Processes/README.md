@@ -31,3 +31,9 @@
 ### Roleplay (25 mins)
 
 We are going to divide ourselves into 3 groups, and each group will pick one of the problems we identified earlier, and go through the problem-solving processes to reach a possible solution, while applying 1 or more of today’s learning outcomes. Afterwards each group will present their solution for 3 minutes, and take feedback for 2 minutes.
+
+### Reflections
+
+I leave you with these questions:
+* How best should you apply these processes to the features you are working on in your current sprint?
+* How can we become better at problem solving?
