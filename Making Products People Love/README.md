@@ -26,17 +26,30 @@ How many of us have used a product (especially a web or mobile app), and then fa
         * I found this link that may be helpful (I have not checked it out myself): https://www.interaction-design.org/courses/emotional-design-how-to-make-products-people-will-love
 
 
-### Design Components
+### Recommended Roleplay (20 mins)
+Divide the class according to their actual teams. Each team should take one of the projects listed below and identify the design components that make up or enhance this product:
+* [Solitr](https://www.solitr.com/)
+    * Possible design components:
+        * Card design
+        * Navigation
+        * Animation
+* [Trello](https://trello.com/)
+    * Possible design components:
+        * Draggable cards
+        * Ability to change background color or image.
+* [Asana](https://asana.com)
+* [Play Hearts](https://www.playhearts-online.com/)
+
+### General Design Components
 * Colours
 * Fonts/Typography
 * Layout/Page Balance/Information Architecture
 * Animation
 * Navigation
 
-### Recommended Roleplay
-* [Solitr](https://www.solitr.com/)
-* [Asana](https://asana.com)
-* [Play Hearts](https://www.playhearts-online.com/)
+----
 
 Take a look at the links above, and compare them to your Sims project in the following aspects:
 * Design Components
+
+### KBB Discussions (15 mins)
