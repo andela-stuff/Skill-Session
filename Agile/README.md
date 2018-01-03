@@ -7,7 +7,8 @@
 ### How Does Agile Compare to Other Methodologies?
 
 *Expect them to compare Agile to Waterfall.*
-    * Waterfall is done in phases while Agile is done in sprints. Waterfall goes from one phase to the next while in Agile, sprints iterate over the various phases.
+
+* Waterfall is done in phases while Agile is done in sprints. Waterfall goes from one phase to the next while in Agile, sprints iterate over the various phases.
         * Planning
         * Design
         * Implementation
