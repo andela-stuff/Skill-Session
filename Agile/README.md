@@ -9,13 +9,14 @@
 *Expect them to compare Agile to Waterfall.*
 
 * Waterfall is done in phases while Agile is done in sprints. Waterfall goes from one phase to the next while in Agile, sprints iterate over the various phases.
-        * Planning
-        * Design
-        * Implementation
-        * Testing (User-Acceptance Testing, UAT)
-        * Deployment
-        * Maintenance
-    * In waterfall, different stakeholders are involved in different phases while all stakeholders are involved in the sprints for agile.
+
+    * Planning
+    * Design
+    * Implementation
+    * Testing (User-Acceptance Testing, UAT)
+    * Deployment
+    * Maintenance
+* In waterfall, different stakeholders are involved in different phases while all stakeholders are involved in the sprints for agile.
 
 * Talk about [The Agile Manifesto](http://agilemanifesto.org/).
 * Talk about [Scrum Team and Ceremonies](https://www.atlassian.com/agile/scrum).
