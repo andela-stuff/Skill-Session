@@ -27,3 +27,7 @@
 * Show the scrum masters a diagram (not visible to the rest of the teams).
 * The Scrum Masters are to write a description of what they see, in the form of stories.
 * Each team is to use the description of their Scrum Master to recreate the diagram.
+
+### Extra Reading
+
+https://www.infoworld.com/article/3237508/agile-development/what-is-agile-methodology-modern-software-development-explained.html
