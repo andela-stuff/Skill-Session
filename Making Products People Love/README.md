@@ -33,10 +33,12 @@ Divide the class according to their actual teams. Each team should take one of t
         * Card design
         * Navigation
         * Animation
+        * Realistic cards
 * [Trello](https://trello.com/)
     * Possible design components:
         * Draggable cards
         * Ability to change background color or image.
+        * Loading animation (the animation that occurs while a board is loading)
 * [Asana](https://asana.com)
 * [Play Hearts](https://www.playhearts-online.com/)
 
@@ -53,3 +55,9 @@ Take a look at the links above, and compare them to your Sims project in the fol
 * Design Components
 
 ### KBB Discussions (15 mins)
+* 
+----
+* timelines
+* check points; get pair reviews for ur checkpoints (from at least a D0b or D1), and it shud reflect on ur repo as comments on PRs
+* you will conduct ur skill sessions going forward (u'll be given a calendar)
+* debriefs will hold without ur LFs. however, u'll b expected to invite ur LFs for a few
