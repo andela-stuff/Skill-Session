@@ -4,6 +4,10 @@
 
 _Is the world-class status of a product conferred on it by the market?_
 
+* Usefulness
+* Good UI/UX
+* Security
+
 ### What kind of thinking ensures a product is world-class?
 
 _If a PO comes to you to ask you to develop maybe a backend for them... how do you should your value compared to that developer on the street? What are some of the things you'd consider that the dev on the street may not?_
