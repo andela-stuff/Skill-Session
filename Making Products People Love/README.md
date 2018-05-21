@@ -57,7 +57,10 @@ Take a look at the links above, and compare them to your Sims project in the fol
 ### KBB Discussions (15 mins)
 * 
 ----
-* timelines
-* check points; get pair reviews for ur checkpoints (from at least a D0b or D1), and it shud reflect on ur repo as comments on PRs
 * you will conduct ur skill sessions going forward (u'll be given a calendar)
-* debriefs will hold without ur LFs. however, u'll b expected to invite ur LFs for a few
+* debriefs will hold without ur LFs. however, u'll b expected to invite ur LFs for weekly syncs
+* check points; get pair reviews for ur checkpoints (from at least a D0b or D1), and it shud reflect on ur repo as comments on PRs
+* submit your LMS outputs as expected
+* timelines: sims project 1, gap week, sims project 2
+* learning hours
+* rate yourself (and each other) on product stewardship
