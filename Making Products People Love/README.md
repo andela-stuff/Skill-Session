@@ -63,4 +63,4 @@ Take a look at the links above, and compare them to your Sims project in the fol
 * submit your LMS outputs as expected
 * timelines: sims project 1, gap week, sims project 2
 * learning hours
-* rate yourself (and each other) on product stewardship
+* rate yourself (and each other) on product stewardship 
