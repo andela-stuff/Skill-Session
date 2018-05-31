@@ -2,17 +2,17 @@
 
 ### Discuss how to communicate effectively  to different stakeholders and level of detail appropriate for each
 
-Product Owner:  
-    Nature: Non-technical  
-    Medium: Zoom, Slack  
-TTL:  
-    Nature: Non-technical  
-    Medium: Zoom, Slack, PRs, 1-on-1, PT board  
-Developers?:  
-LFs:  
-    Nature: Technical  
-    Medium: Zoom, Slack, 1-on-1, Code Reviews  
-Fellowship?:  
+* Product Owner:  
+    * Nature: Non-technical  
+    * Medium: Zoom, Slack  
+* TTL:  
+    * Nature: Non-technical  
+    * Medium: Zoom, Slack, PRs, 1-on-1, PT board  
+* Developers?:  
+* LFs:  
+    * Nature: Technical  
+    * Medium: Zoom, Slack, 1-on-1, Code Reviews  
+* Fellowship?:  
 
 ### Roleplay
 
