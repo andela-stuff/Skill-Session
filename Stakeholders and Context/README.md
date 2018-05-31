@@ -1,9 +1,7 @@
 # Stakeholders and Context
 
-### Roleplay
-<ask Mark>
+### Discuss how to communicate effectively  to different stakeholders and level of detail appropriate for each
 
-Context: To succeed in Sims I should...
 Product Owner:
     Nature: Non-technical
     Medium: Zoom, Slack
@@ -15,3 +13,10 @@ LFs:
     Nature: Technical
     Medium: Zoom, Slack, 1-on-1, Code Reviews
 Fellowship?
+
+### Roleplay
+
+Divide the cohort into 3 teams
+For each identified stakeholder:
+* A team should define the context (e.g. when/if I want to succeed in Sims)
+* A team should define the behaviour with respect to that stakeholder (e.g. I do *xxx* for stakeholder *yyy*)
