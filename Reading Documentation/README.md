@@ -1,4 +1,4 @@
-//this should hold in a room where the fellows can air drop their screens
+//this should hold in a room where the fellows can air play their screens
 
 1. Paystack API - Payment of tickets feature (Basic set up, Charge response and flow) https://developers.paystack.co/ 
 
