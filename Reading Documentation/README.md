@@ -30,10 +30,12 @@ If you are going to implement a feature and there are resources that you need to
 
 ### Recommended Roleplay
 
-1. Paystack API - Payment of tickets feature (Basic set up, Charge response and flow) https://developers.paystack.co/ 
-
-
-2. Google Maps API - Location of events feature (Geolocation, Geocoding and Reverse geocoding) https://developers.google.com/maps/documentation/javascript/tutorial 
-
-
-3. Facebook Graph API - Login feature (Facebooks Graph API - Posting Multiple Published Photos) https://developers.facebook.com/docs/graph-api/
+* Divide fellows into teams.
+* Allocate documentation for 3 different API’s to the teams (1 doc per team) to be read and understood.
+    * Paystack API - https://developers.paystack.co
+    * Google Maps API - https://developers.google.com/maps/documentation/javascript/tutorial
+    * Facebook Graph API - https://developers.facebook.com/docs/graph-api/
+* They are then to discuss how to implement the features below that correspond to that API.
+    * Paystack API - Payment of tickets feature(Basic set up, Charge response and flow)
+    * Google Maps API - Location of events feature (Geolocation, Geocoding and Reverse geocoding )
+    * Facebook Graph API - Login feature (Facebooks Graph API - Posting Multiple Published Photos) 
