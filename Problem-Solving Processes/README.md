@@ -12,6 +12,8 @@
 * Now let’s take 2 minutes and read up on problem-solving online, and then augment our list of steps
 * Some steps to expect are:
     * Define the Problem (which includes identifying the root cause of the problem) Here you ask them if they can identify any problem with the following system:
+        * Queue at the cafeteria
+        * Epic Tower car park problem
         * Amity (focus on allocation)
         * Traffic in the city (focus on traffic light?)
         * Corruption in the government (focus on voting)
