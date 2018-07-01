@@ -2,7 +2,8 @@
 
 * What do you understanding by testing?
 * What do you understand by debugging?
-* The class was told to read on (and compare) TDD & BDD
+* The class was told to read on (and compare) TDD & BDD *LF can refer to the links below*
+    * https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/
 
 ### Considerations when writing tests
 
