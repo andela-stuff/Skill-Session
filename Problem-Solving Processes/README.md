@@ -14,6 +14,7 @@
     * Define the Problem (which includes identifying the root cause of the problem) Here you ask them if they can identify any problem with the following system:
         * Queue at the cafeteria
         * Epic Tower car park problem
+        * Waste Management
         * Amity (focus on allocation)
         * Traffic in the city (focus on traffic light?)
         * Corruption in the government (focus on voting)
